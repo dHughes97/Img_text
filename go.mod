@@ -1,4 +1,4 @@
-module github.com/dHughes97/img_text
+module github.com/dHughes97/Img_text
 
 go 1.21.0
 
